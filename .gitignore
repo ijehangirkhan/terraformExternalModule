@@ -1,4 +1,9 @@
+.DS_Store
 /Main/.DS_Store
 /Main/.terraform
+/Main/configuration/.DS_Store
+/Main/modules/.DS_Store
 /VPC/.DS_Store
 /VPC/.terraform
+/VPC/configuration/.DS_Store
+/VPC/modules/.DS_Store
